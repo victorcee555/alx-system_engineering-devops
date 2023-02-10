@@ -1,2 +1,2 @@
 #!/bin/bash
-sudo chmod -R ogu+x
+sudo chmod -R ogu+x ./
